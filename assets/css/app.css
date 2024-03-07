@@ -95,6 +95,17 @@ h1{
     height:800px;
     position: relative;
 }
+
+
+.Commentaires{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    gap: 50px;
+}
+
+
 .imgCarroussel{
     width:100%;
     position: absolute;
@@ -157,7 +168,7 @@ h3, #mecontacter, .mail{
     margin-bottom: 80px;
     margin-top: 20%;
     font-size: 4em;
-    color: #0033ff;
+    color: #35A9E1;
 }
 
 #mecontacter, .mail{
@@ -169,7 +180,7 @@ h3, #mecontacter, .mail{
 form {
     max-width: 60%;
     margin: 50px auto;
-    border: #0033ff 2px solid;
+    border: #35A9E1 2px solid;
     padding: 20px;
 }
 input[type="text"], input[type="email"], textarea {
@@ -183,7 +194,7 @@ input[type="text"], input[type="email"], textarea {
 }
 textarea {
     height: 150px;
-    color: #0033ff;
+    color: #35A9E1;
 }
 input[type="submit"] {
     background-color: #FF7B02;
@@ -206,7 +217,7 @@ label{
 }
 
 #contact{
-    color: #0033ff;
+    color: #35A9E1;
 }
 #principal{
     margin-top: 20px;
@@ -231,7 +242,7 @@ h4{
     padding: 10px;
     width:80vw;
     margin-top: 80px;
-    box-shadow: 0px 0px 5px 5px #0033ff;
+    box-shadow: 0px 0px 5px 5px #35A9E1;
 }
 .sectionShorts{
     display: flex;
