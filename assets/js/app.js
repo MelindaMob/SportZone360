@@ -18,7 +18,7 @@ function changeSlide() {
     index++;
 
 }
-setInterval(changeSlide, 4000);
+setInterval(changeSlide, 3000);
 
 // let cardGuest = document.getElementById('cardGuest');
 // const container = document.getElementById('containtGuest');
