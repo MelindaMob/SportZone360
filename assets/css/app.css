@@ -420,7 +420,7 @@ footer{
         gap:0px;
     }
     nav{
-        width: 78%;
+        width: 88%;
     }
     svg{
         width: 20px;
@@ -488,6 +488,12 @@ footer{
     }
     #intro p{
         font-size: small;
+    }
+
+    .Commentaires{
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
     }
 
     footer{
