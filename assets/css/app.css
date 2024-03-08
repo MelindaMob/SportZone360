@@ -4,16 +4,26 @@
     margin: 0;
 }
 
+
+
 @font-face {
     font-family: "sport";
     src: url('/assets/fonts/Police_Octin/octin\ sports\ rg.otf');
 }
 
+.anta-regular {
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
 body{
-    font-family: "sport";
+    /* font-family: "sport"; */
     background: black;
     color: white;
     position:relative;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: "Anta";
 }
 
 
